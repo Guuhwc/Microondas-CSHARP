@@ -1,0 +1,82 @@
+C:\Users\caiop\Desktop\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\caiop\Desktop\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\caiop\Desktop\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\caiop\Desktop\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\caiop\Desktop\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\caiop\Desktop\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\caiop\Desktop\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\caiop\Desktop\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\caiop\Desktop\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\caiop\Documents\Caiow\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\caiop\Documents\Caiow\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\caiop\Documents\Caiow\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\caiop\Documents\Caiow\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\caiop\Documents\Caiow\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\caiop\Documents\Caiow\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\caiop\Documents\Caiow\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\caiop\Documents\Caiow\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\caiop\Documents\Caiow\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+E:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+I:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+I:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+I:\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+I:\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+I:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+I:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+I:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+I:\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+J:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+J:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+J:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+J:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\ResolveAssemblyReference.cache
+J:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+J:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+J:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\GenerateResource.read.1.tlog
+J:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\GenerateResource.write.1.tlog
+J:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+D:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\ARQUIVOS IMPORTANTES PRA CARALHO\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\ETEC\DS - I\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\ETEC\DS - I\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\Gus\T.I\Projetos\ETEC\DS - I\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\Gus\T.I\Projetos\ETEC\DS - I\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\Gus\T.I\Projetos\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\Gus\T.I\Projetos\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\Gus\T.I\Projetos\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\Gus\T.I\Projetos\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\Gus\T.I\Projetos\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\Gus\T.I\Projetos\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\Gus\T.I\Projetos\ETEC\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\Gustavo\T.I\Projetos\ETEC 2018\DS - I\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\Gustavo\T.I\Projetos\ETEC 2018\DS - I\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\Gustavo\T.I\Projetos\ETEC 2018\DS - I\Microondas\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\Gustavo\T.I\Projetos\ETEC 2018\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+E:\Gustavo\T.I\Projetos\ETEC 2018\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+E:\Gustavo\T.I\Projetos\ETEC 2018\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\Gustavo\T.I\Projetos\ETEC 2018\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Gustavo\T.I\Projetos\ETEC 2018\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Gustavo\T.I\Projetos\ETEC 2018\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\Gustavo\T.I\Projetos\ETEC 2018\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\Gustavo\T.I\Projetos\ETEC 2018\DS - I\Microondas\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
